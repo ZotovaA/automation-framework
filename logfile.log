@@ -1,0 +1,48 @@
+2026-04-27 20:40:41,674 INFO  [Log] Test called: Testing the authentication has started
+2026-04-27 20:40:43,353 INFO  [Log] Navigating to https://bitheap.tech/
+2026-04-27 20:40:49,035 INFO  [Log] Test called: Testing the purchase of two items has started
+2026-04-27 20:40:50,024 INFO  [Log] Navigating to https://bitheap.tech/
+2026-04-27 23:21:36,568 INFO  [Log] Test called: Testing the authentication has started
+2026-04-27 23:21:37,543 INFO  [Log] INFO: Navigating to https://bitheap.tech/
+2026-04-27 23:21:37,661 INFO  [Log] INFO: Open Sign In Window
+2026-04-27 23:21:37,847 INFO  [Log] INFO: Enter email laurentiu@bitheap.tech and password MTIzNDU2
+2026-04-27 23:21:41,544 INFO  [Log] Test called: 'Log into website' has ended
+2026-04-27 23:21:42,652 INFO  [Log] Test called: Testing the purchase of two items has started
+2026-04-27 23:21:43,895 INFO  [Log] INFO: Navigating to https://bitheap.tech/
+2026-04-27 23:21:44,497 INFO  [Log] INFO: Open Shop Page
+2026-04-27 23:21:45,136 INFO  [Log] INFO: Add element to cart
+2026-04-27 23:21:45,136 WARN  [Log] WARN: Have to wait after adding item
+2026-04-27 23:21:49,086 INFO  [Log] INFO: Open Cart Page
+2026-04-27 23:21:49,991 INFO  [Log] INFO: Go to checkout
+2026-04-27 23:21:50,377 INFO  [Log] INFO: Providing personal details
+2026-04-27 23:21:50,377 WARN  [Log] WARN: Have to wait after providing details
+2026-04-27 23:21:59,520 INFO  [Log] Test called: 'Item was bought' has ended
+2026-04-27 23:33:01,353 INFO  [Log] Test called: Testing the authentication has started
+2026-04-27 23:33:02,425 INFO  [Log] INFO: Navigating to https://bitheap.tech/
+2026-04-27 23:33:02,539 INFO  [Log] INFO: Open Sign In Window
+2026-04-27 23:33:02,735 INFO  [Log] INFO: Enter email laurentiu@bitheap.tech and password MTIzNDU2
+2026-04-27 23:33:06,371 INFO  [Log] Test called: 'Log into website' has ended
+2026-04-27 23:33:07,466 INFO  [Log] Test called: Testing the purchase of two items has started
+2026-04-27 23:33:08,413 INFO  [Log] INFO: Navigating to https://bitheap.tech/
+2026-04-27 23:33:08,913 INFO  [Log] INFO: Open Shop Page
+2026-04-27 23:33:09,157 INFO  [Log] INFO: Add element to cart
+2026-04-27 23:33:09,157 WARN  [Log] WARN: Have to wait after adding item
+2026-04-27 23:33:13,886 INFO  [Log] INFO: Open Cart Page
+2026-04-27 23:33:14,660 INFO  [Log] INFO: Go to checkout
+2026-04-27 23:33:15,046 INFO  [Log] INFO: Providing personal details
+2026-04-27 23:33:15,046 WARN  [Log] WARN: Have to wait after providing details
+2026-04-27 23:34:55,846 INFO  [Log] Test called: Testing the authentication has started
+2026-04-27 23:34:56,791 INFO  [Log] INFO: Navigating to https://bitheap.tech/
+2026-04-27 23:34:56,905 INFO  [Log] INFO: Open Sign In Window
+2026-04-27 23:34:57,102 INFO  [Log] INFO: Enter email laurentiu@bitheap.tech and password MTIzNDU2
+2026-04-27 23:35:01,304 INFO  [Log] Test called: 'Log into website' has ended
+2026-04-27 23:35:02,367 INFO  [Log] Test called: Testing the purchase of two items has started
+2026-04-27 23:35:03,631 INFO  [Log] INFO: Navigating to https://bitheap.tech/
+2026-04-27 23:35:04,173 INFO  [Log] INFO: Open Shop Page
+2026-04-27 23:35:04,429 INFO  [Log] INFO: Add element to cart
+2026-04-27 23:35:04,437 WARN  [Log] WARN: Have to wait after adding item
+2026-04-27 23:35:08,072 INFO  [Log] INFO: Open Cart Page
+2026-04-27 23:35:08,842 INFO  [Log] INFO: Go to checkout
+2026-04-27 23:35:09,204 INFO  [Log] INFO: Providing personal details
+2026-04-27 23:35:09,204 WARN  [Log] WARN: Have to wait after providing details
+2026-04-27 23:35:18,362 INFO  [Log] Test called: 'Item was bought' has ended

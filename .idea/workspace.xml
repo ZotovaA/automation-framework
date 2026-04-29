@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="898a6fb8-e7a0-43e8-ada5-dd7f1340463a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/config/AutomationFrameworkConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/drivers/DriverSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/drivers/strategies/Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/drivers/strategies/DriverStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/drivers/strategies/DriverStrategyImplementer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/drivers/strategies/Firefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/pages/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/pages/ShopPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/utils/ConfigurationProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/utils/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/utils/TestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/automation/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/automation/glue/StepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/SignIn.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/framework.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3CFKDSheEyGCMDT6tXxfFrfW6R9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Cucumber Java.Scenario: Testing the authentication.executor": "Run",
+    "Cucumber Java.Scenario: Testing the purchase of two items.executor": "Run",
+    "Cucumber Java.Scenario: Еуыештп еру згксрфыу ща ецщ шеуьы.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "JUnit.TestRunner.tests.executor": "Run",
+    "JUnit.Tests.testingAddingThingsToCart.executor": "Run",
+    "JUnit.Tests.testingAuthentification.executor": "Run",
+    "JUnit.Tests.testingTheFullBuyingProcess.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/zotov/IdeaProjects/bddDemo",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.19770116",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zotov\IdeaProjects\bddDemo\src\test\resources" />
+      <recent name="C:\Users\zotov\IdeaProjects\bddDemo\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: Testing the authentication" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/SignIn.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="junitDemo" />
+      <option name="NAME_FILTER" value="^Testing the authentication$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity --name &quot;^Testing the authentication$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Testing the authentication" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Testing the purchase of two items" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SignIn.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="junitDemo" />
+      <option name="NAME_FILTER" value="^Testing the purchase of two items$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity --name &quot;^Testing the purchase of two items$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Testing the purchase of two items" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Еуыештп еру згксрфыу ща ецщ шеуьы" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SignIn.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="junitDemo" />
+      <option name="NAME_FILTER" value="^Еуыештп еру згксрфыу ща ецщ шеуьы$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity --name &quot;^Еуыештп еру згксрфыу ща ецщ шеуьы$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Еуыештп еру згксрфыу ща ецщ шеуьы" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automation" />
+      <option name="MAIN_CLASS_NAME" value="automation.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automation" />
+      <option name="MAIN_CLASS_NAME" value="automation.TestRunner" />
+      <option name="METHOD_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="junitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="junitDemo" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.TestRunner.tests" />
+        <item itemvalue="Cucumber Java.Scenario: Testing the purchase of two items" />
+        <item itemvalue="Cucumber Java.Scenario: Еуыештп еру згксрфыу ща ецщ шеуьы" />
+        <item itemvalue="Cucumber Java.Scenario: Testing the authentication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="898a6fb8-e7a0-43e8-ada5-dd7f1340463a" name="Changes" comment="" />
+      <created>1775975758772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775975758772</updated>
+      <workItem from="1775975760358" duration="10000" />
+      <workItem from="1775975792178" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/seleniumDemo$Main.ic" NAME="Main Coverage Results" MODIFIED="1776796718330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
